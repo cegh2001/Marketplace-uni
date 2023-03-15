@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+
+    <!---Libreria Bootstrap--->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+    
+    <!--link a la pagina de estilos-->
+    <link rel="stylesheet" href="<?php base_url();?>style-login-register.css">>
+
+</head>
+
+
+<body>
+
+    <div class="container">
+
+        <div class="col-sm-12 col-md-12 col-lg-12">
+
+            <div class="formulario" >
+                <h1 class="title-registro">¡Regístrate!</h1>
+                <form class="register-form">
+
+                    <input type="text" placeholder="Nombre">
+                    <input type="text" placeholder="Apellido">
+                    <input type="text" placeholder="Usuario">
+                    <input type="email" placeholder="Correo electrónico">
+                    <input type="password" placeholder="Contraseña">
+                    <input type="number" placeholder="Cédula">
+                    <p class="texto">
+                        Para confirmar que perteneces a nuestra comunidad, por favor <br>
+                        adjunta aqui tu constancia de estudio o de trabajo, dependiendo <br> del
+                        caso <br>
+                        Puedes encontrarlo iniciando sesión en la zona de estudiantes <br> o trabajadores
+                        de la página de la universidad
+                    </p>
+                    <div class="boton-subida">
+                        <input type="file" id="file" class="boton-subida-input">
+                        
+                        <label for="file">
+                            <div class="boton-subida-icon">
+                                <img src="imagenes/icon-subida.svg" alt="">
+                            </div>
+                            Subir archivo
+                        </label>
+                        
+                    </div>
+                    <a href="http://localhost/Proyecto-Uni/public/index.html">¡Regístrate!</a>
+                    <p class="texto">¿Ya tienes una cuenta?</p>
+                    <a href="http://localhost/Proyecto-Uni/public/index.html">¡Inicia sesión!</a>
+                    
+                </form> 
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
