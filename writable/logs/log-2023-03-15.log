@@ -1,0 +1,45 @@
+CRITICAL - 2023-03-15 17:03:43 --> Invalid file: "index.html"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.html')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index.html', [], true)
+ 3 APPPATH\Controllers\sesion.php(9): view('index.html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 17:04:29 --> Invalid file: "holamundo2.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('holamundo2.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('holamundo2', [], true)
+ 3 APPPATH\Controllers\holamundo.php(9): view('holamundo2')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\holamundo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\holamundo))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 17:05:37 --> Invalid file: "holamundo2.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('holamundo2.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('holamundo2', [], true)
+ 3 APPPATH\Controllers\holamundo.php(9): view('holamundo2')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\holamundo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\holamundo))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 17:05:45 --> Invalid file: "index.html"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.html')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index.html', [], true)
+ 3 APPPATH\Controllers\sesion.php(9): view('index.html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 17:06:22 --> Invalid file: "index.html"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.html')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index.html', [], true)
+ 3 APPPATH\Controllers\sesion.php(9): view('index.html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
