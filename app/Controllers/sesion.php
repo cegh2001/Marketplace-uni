@@ -4,7 +4,6 @@ namespace App\Controllers;
 use App\Controllers\BaseController;
 use App\Models\UsuarioModel;
 
-
 class Sesion extends BaseController
 {
     #ayudantes para tratar el baseurl y el form (register)
@@ -99,7 +98,6 @@ class Sesion extends BaseController
         }
     }
 
-
     protected $session;
     #Aca verificamos el login(index) ta dudosa junto a las rutas
     public function login(){
@@ -117,8 +115,8 @@ class Sesion extends BaseController
             return redirect()->to(base_url('login'))->with('Error', 'El usuario o la contraseña son incorrectas :´(');
         }
         // esto va en controlador sesion lo puedes colocar al final 
-
     }
+    
     public function logout(){
 
         $session = session();
