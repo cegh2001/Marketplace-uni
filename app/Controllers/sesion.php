@@ -101,6 +101,7 @@ class Sesion extends BaseController
     protected $session;
     #Aca verificamos el login(index) ta dudosa junto a las rutas
     public function login(){
+
         $Usuario = new UsuarioModel();
         $usuario = $this->request->getPost('usuario');
         $password = $this->request->getPost('password');
@@ -108,7 +109,10 @@ class Sesion extends BaseController
         $datosUsuario = $Usuario->where(['usuario' => $usuario])->first();
     
         if (!empty($datosUsuario) && password_verify($password, $datosUsuario['password'])) {
-            $this->session->set("usuario", $datosUsuario);
+            $session = session();
+            $session->set("usuario", $datosUsuario);
+            //use ese print para mostrar los datos de sesion
+            //print_r ($session->get());
             return redirect()->to(base_url('inicio'));
         }  else {
             session()->setFlashdata('Error', 'Usuario o contraseña no válidas');
@@ -116,7 +120,7 @@ class Sesion extends BaseController
         }
         // esto va en controlador sesion lo puedes colocar al final 
     }
-    
+
     public function logout(){
 
         $session = session();
