@@ -1,0 +1,1467 @@
+INFO - 2023-06-14 05:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 05:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 05:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 05:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:05:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:05:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:05:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:06:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:07:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:07:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:07:33 --> mysqli_sql_exception: Column 'id_categorias' cannot be null in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(95): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:07:33 --> Column 'id_categorias' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `imagen_prod`, `id_categorias`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :imagen_prod:, :id_categorias:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(95): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:09:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:09:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:09:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:14:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:24:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:26:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:26:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:29:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:30:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:30:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:31:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:31:00 --> mysqli_sql_exception: Column 'id_categorias' cannot be null in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(95): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:31:00 --> Column 'id_categorias' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `imagen_prod`, `id_categorias`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :imagen_prod:, :id_categorias:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(95): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:49:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:49:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:49:14 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(31): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:49:14 --> Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`id_categorias`) VALUES (:id_categorias:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(31): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:49:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:49:20 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(31): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:49:20 --> Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`id_categorias`) VALUES (:id_categorias:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(31): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:51:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:51:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:51:17 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(31): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:51:17 --> Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_7` FOREIGN KEY (`id_perfiles`) REFERENCES `perfiles` (`id_perfiles`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`id_categorias`) VALUES (:id_categorias:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(31): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->procesar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:51:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:51:42 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_3` FOREIGN KEY (`id_categorias`) REFERENCES `categorias` (`id_categorias`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(99): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:51:42 --> Cannot add or update a child row: a foreign key constraint fails (`usuarios_umc`.`publicaciones`, CONSTRAINT `publicaciones_ibfk_3` FOREIGN KEY (`id_categorias`) REFERENCES `categorias` (`id_categorias`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `imagen_prod`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :imagen_prod:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(99): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:53:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:53:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:53:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:57:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:57:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 05:57:52 --> mysqli_sql_exception: Column 'id_categorias' cannot be null in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(83): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 05:57:52 --> Column 'id_categorias' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `id_categorias`, `imagen_prod`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :id_categorias:, :imagen_prod:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(83): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:57:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 05:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 05:59:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:00:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 06:00:06 --> mysqli_sql_exception: Column 'id_categorias' cannot be null in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(83): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 06:00:06 --> Column 'id_categorias' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `id_categorias`, `imagen_prod`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :id_categorias:, :imagen_prod:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(83): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:00:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:08:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:09:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:10:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:13:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:14:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:14:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:14:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:17:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:17:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:17:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:17:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 06:17:38 --> mysqli_sql_exception: Column 'id_categorias' cannot be null in C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\app\Controllers\Publicar.php(83): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+#9 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+#10 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Carlinho\Documents\XAMPP\htdocs\Proyecto-Uni\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-14 06:17:38 --> Column 'id_categorias' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `publicaciones` (`nombre`, `precio`, `descripcion`, `id_categorias`, `imagen_prod`, `id_perfiles`, `id_usuarios`, `likes`) VALUES (:nombre:, :precio:, :descripcion:, :id_categorias:, :imagen_prod:, :id_perfiles:, :id_usuarios:, :likes:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Publicar.php(83): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:17:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:23:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:23:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:23:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:25:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:26:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:26:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:33:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:33:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:45:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:45:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:45:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:46:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:46:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:51:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:51:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:51:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:52:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:52:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 06:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 06:52:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:15:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:16:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:16:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:31:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:31:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:31:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:38:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:39:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 07:39:05 --> Call to a member function isValid() on array
+in APPPATH\Controllers\Publicar.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publish()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:48:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:48:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 07:48:49 --> Call to a member function isValid() on array
+in APPPATH\Controllers\Publicar.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->publish()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:53:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:53:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:53:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 07:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 07:53:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 08:26:05 --> Undefined variable $nombreProducto
+in APPPATH\Views\post-card.php on line 42.
+ 1 APPPATH\Views\post-card.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombreProducto', 'APPPATH\\Views\\post-card.php', 42)
+ 2 APPPATH\Views\profile.php(325): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\profile.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('profile', [], true)
+ 6 APPPATH\Controllers\Perfil.php(57): view('profile', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Perfil->account('post')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:26:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:26:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:27:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:27:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:28:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Perfil::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:29:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:49:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 08:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 08:49:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 13:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 13:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 13:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 13:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 13:53:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 13:53:37 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:13:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:13:19 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:13:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:13:59 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 14:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 14:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:14:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:14:07 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:15:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:15:55 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:16:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:16:00 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:16:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:16:24 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:17:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:17:12 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:21:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:21:16 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:29:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:29:15 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:29:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Publicar::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:29:44 --> Attempt to read property "nombre" on array
+in APPPATH\Views\post-card.php on line 43.
+ 1 APPPATH\Views\post-card.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on array', 'APPPATH\\Views\\post-card.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('post-card', [], true)
+ 5 APPPATH\Controllers\Publicar.php(19): view('post-card', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:30:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:34:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:34:44 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:34:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:37:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\inicio::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:37:39 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:37:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:52:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:52:11 --> Undefined variable $publicaciones
+in APPPATH\Views\post.php on line 41.
+ 1 APPPATH\Views\post.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Publicaciones.php(51): view('post')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicaciones->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicaciones))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:54:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:54:56 --> Undefined variable $publicaciones
+in APPPATH\Views\post.php on line 41.
+ 1 APPPATH\Views\post.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Publicaciones.php(51): view('post')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicaciones->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicaciones))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:55:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:55:17 --> Undefined variable $publicaciones
+in APPPATH\Views\post.php on line 41.
+ 1 APPPATH\Views\post.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Publicaciones.php(51): view('post')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicaciones->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicaciones))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 14:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-14 14:58:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\publicaciones::$session is deprecated in APPPATH\Controllers\BaseController.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 14:58:39 --> Undefined variable $publicaciones
+in APPPATH\Views\post.php on line 41.
+ 1 APPPATH\Views\post.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Publicaciones.php(52): view('post')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicaciones->post()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicaciones))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 21:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 21:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 21:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:05:26 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:20 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:21 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:22 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:23 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:23 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:16:32 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:26:30 --> Call to undefined method App\Models\PublicacionesModel::ordenBy
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Models\PublicacionesModel.php(15): CodeIgniter\Model->__call('ordenBy', [...])
+ 2 APPPATH\Controllers\Publicar.php(15): App\Models\PublicacionesModel->get_publicacionRandomdos()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:27:38 --> Call to undefined method App\Models\PublicacionesModel::ordenBy
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Models\PublicacionesModel.php(15): CodeIgniter\Model->__call('ordenBy', [...])
+ 2 APPPATH\Controllers\Publicar.php(15): App\Models\PublicacionesModel->get_publicacionRandomdos()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:27:39 --> Call to undefined method App\Models\PublicacionesModel::ordenBy
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Models\PublicacionesModel.php(15): CodeIgniter\Model->__call('ordenBy', [...])
+ 2 APPPATH\Controllers\Publicar.php(15): App\Models\PublicacionesModel->get_publicacionRandomdos()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:27:43 --> Call to undefined method App\Models\PublicacionesModel::ordenBy
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Models\PublicacionesModel.php(15): CodeIgniter\Model->__call('ordenBy', [...])
+ 2 APPPATH\Controllers\Publicar.php(15): App\Models\PublicacionesModel->get_publicacionRandomdos()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:28:20 --> Call to undefined method App\Models\PublicacionesModel::get_publicacionRandomdos
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Publicar.php(15): CodeIgniter\Model->__call('get_publicacionRandomdos', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Publicar->indexpostcard()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publicar))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:32:52 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:32:53 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:33:13 --> Undefined variable $publicaciones
+in APPPATH\Views\post-card.php on line 38.
+ 1 APPPATH\Views\post-card.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'APPPATH\\Views\\post-card.php', 38)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 22:33:40 --> Undefined variable $publicacion
+in APPPATH\Views\post-card.php on line 43.
+ 1 APPPATH\Views\post-card.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicacion', 'APPPATH\\Views\\post-card.php', 43)
+ 2 APPPATH\Views\inicio.php(78): include_once('APPPATH\\Views\\post-card.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inicio', [], true)
+ 6 APPPATH\Controllers\inicio.php(9): view('inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\inicio->Principal()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\inicio))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 22:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 22:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 23:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

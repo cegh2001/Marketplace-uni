@@ -1,0 +1,216 @@
+CRITICAL - 2023-04-07 00:37:04 --> Undefined array key "cedula"
+in APPPATH\Controllers\sesion.php on line 101.
+ 1 APPPATH\Controllers\sesion.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cedula"', 'APPPATH\\Controllers\\sesion.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-07 00:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-07 01:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-07 01:19:45 --> Class "App\Models\UsuarioModel" not found
+in APPPATH\Controllers\register.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:21:26 --> Call to undefined method App\Models\UsuarioModel::registrarUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\register.php(23): CodeIgniter\Model->__call('registrarUsuario', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:28:32 --> Call to undefined method App\Models\UsuarioModel::registrarUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\register.php(23): CodeIgniter\Model->__call('registrarUsuario', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:32:51 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 124.
+ 1 APPPATH\Controllers\sesion.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 124)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-07 01:41:08 --> mysqli_sql_exception: Unknown column 'usuarios' in 'where clause' in C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 C:\Users\danai\xampp\htdocs\Proyecto-Uni\app\Controllers\sesion.php(122): CodeIgniter\BaseModel->first()
+#7 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+#8 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+#9 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\danai\xampp\htdocs\Proyecto-Uni\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-07 01:41:08 --> Unknown column 'usuarios' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `usuarios`
+WHERE `usuarios` IS NULL
+ LIMIT 1', [], false)
+ 2 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\sesion.php(122): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-07 01:41:46 --> mysqli_sql_exception: Unknown column 'login' in 'where clause' in C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 C:\Users\danai\xampp\htdocs\Proyecto-Uni\app\Controllers\sesion.php(122): CodeIgniter\BaseModel->first()
+#7 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+#8 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+#9 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\danai\xampp\htdocs\Proyecto-Uni\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-07 01:41:46 --> Unknown column 'login' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `usuarios`
+WHERE `login` IS NULL
+ LIMIT 1', [], false)
+ 2 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\sesion.php(122): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:42:14 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 124.
+ 1 APPPATH\Controllers\sesion.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 124)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:46:32 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 124.
+ 1 APPPATH\Controllers\sesion.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 124)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:55:22 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 124.
+ 1 APPPATH\Controllers\sesion.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 124)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 01:55:53 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 123.
+ 1 APPPATH\Controllers\sesion.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:01:20 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 123.
+ 1 APPPATH\Controllers\sesion.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:16:28 --> Unclosed '{' on line 8
+in APPPATH\Models\UsuarioModel.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UsuarioModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UsuarioModel')
+ 3 APPPATH\Controllers\sesion.php(120): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UsuarioModel')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:17:00 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\sesion.php on line 123.
+ 1 APPPATH\Controllers\sesion.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\sesion.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\sesion->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\sesion))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:22:01 --> unlink(C:\Users\danai\xampp\htdocs\Proyecto-Uni\writable\debugbar/debugbar_1680760808.222825.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\Users\\danai\\xampp\\htdocs\\Proyecto-Uni\\writable\\debugbar/debugbar_1680760808.222825.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('ROOTPATH\\writable\\debugbar/debugbar_1680760808.222825.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1680834117.481211', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(474): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(350): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:31:25 --> Call to a member function getPost() on null
+in APPPATH\Models\UsuarioModel.php on line 60.
+ 1 APPPATH\Controllers\register.php(23): App\Models\UsuarioModel->registrarUsuario([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-07 02:46:13 --> mysqli_sql_exception: Table 'usuarios_umc.usuario' doesn't exist in C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\danai\xampp\htdocs\Proyecto-Uni\app\Models\UsuarioModel.php(17): CodeIgniter\Model->insert(Array)
+#8 C:\Users\danai\xampp\htdocs\Proyecto-Uni\app\Controllers\register.php(23): App\Models\UsuarioModel->registrarUsuario(Array)
+#9 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(934): App\Controllers\register->registrar()
+#10 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+#11 C:\Users\danai\xampp\htdocs\Proyecto-Uni\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\danai\xampp\htdocs\Proyecto-Uni\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-04-07 02:46:14 --> Table 'usuarios_umc.usuario' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `usuario` (`nombre`, `apellido`, `usuario`, `cedula`, `password`) VALUES (:nombre:, :apellido:, :usuario:, :cedula:, :password:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\UsuarioModel.php(17): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\register.php(23): App\Models\UsuarioModel->registrarUsuario([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 02:56:12 --> Call to undefined method App\Models\UsuarioModel::registrarUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\register.php(23): CodeIgniter\Model->__call('registrarUsuario', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 03:06:03 --> Call to undefined method App\Models\UsuarioModel::registrarUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\register.php(23): CodeIgniter\Model->__call('registrarUsuario', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 03:08:43 --> syntax error, unexpected token ">"
+in APPPATH\Controllers\register.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\register.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\register')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\register')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\register', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 03:42:35 --> Call to undefined method App\Models\UsuarioModel::registrarUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\register.php(23): CodeIgniter\Model->__call('registrarUsuario', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registrar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

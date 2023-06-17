@@ -1,0 +1,29 @@
+INFO - 2023-03-31 00:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-31 00:31:01 --> Invalid file: "register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('register', [], true)
+ 3 APPPATH\Controllers\register.php(10): view('register')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\register->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\register))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 00:31:57 --> Invalid file: "index.html"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.html')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index.html', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index.html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 00:32:02 --> Invalid file: "index.html"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.html')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index.html', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('index.html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-31 00:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

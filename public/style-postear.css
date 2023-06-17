@@ -1,0 +1,444 @@
+/* Se colocan estas especificaciones para resetear todos los valores por 
+defecto del navegador*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+/*Fondo de la pagina*/
+body {
+  font-family: 'Carter One', cursive;
+  background-image: url(img/fondo-proyecto-inicio.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+
+/*Estilos del titulo y logo de la barra de navegacion*/
+.title-nav {
+  padding-left: 10px;
+  font-size: x-large;
+}
+.logo-nav {
+  width: 50px;
+  height: 50px;
+}
+
+/*Estilos de la caja de busqueda y boton de busqueda de la barra de navegacion*/
+.busqueda {
+  margin-left: auto;
+}
+.btn-busqueda {
+  background-color: #E6DA50;
+}
+.buscar-logo {
+  width: 30px;
+  height: 30px;
+}
+
+
+/*Estilos del menu desplegable de la barra de navegacion*/
+.icon {
+  margin-right: 5px;
+}
+
+
+/*Diseño del fondo del formulario de inicio de sesion*/
+.formulario  {
+  width: 500px;
+  min-width: 300px;
+  border-radius: 10px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin: auto;
+  border: solid 1px rgb(170, 172, 176);
+  box-shadow: 5px 10px 10px;
+  background-color: #7692ff;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+
+/*Diseño del texto en general*/
+.texto {
+  text-align: center;
+  font-weight: 400;
+  color: rgb(7, 7, 40);
+  margin-bottom: 25px;
+}
+
+/*Diseño del texto de bienvenida*/
+.intro .texto {
+  display: block;
+  margin-top:.2% ;
+  font-size: 1.3rem;   
+}
+
+/*Diseño del fondo del formulario de inicio de sesion*/
+.formulario  {
+  width: 500px;
+  min-width: 300px;
+  border-radius: 10px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin: auto;
+  border: solid 1px rgb(170, 172, 176);
+  box-shadow: 5px 10px 10px;
+  background-color: #7692ff;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+
+/*Diseño del fondo del texto de bienvenida */
+.intro {
+  display: block;
+}
+
+/*Diseño del texto de bienvenida*/
+.intro .texto {
+  display: block;
+  margin-top:.2% ;
+  font-size: 1.3rem;   
+}
+
+/*Diseño del texto en general*/
+.texto {
+  text-align: center;
+  font-weight: 400;
+  color: rgb(7, 7, 40);
+  margin-bottom: 25px;
+}
+
+/*Diseño de los campos de ingreso de datos*/
+.formulario .campo {
+  display: block;
+  margin: auto;
+  height: 40px;
+  width: 75%;
+  padding-left: 10px;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+  
+}
+
+.precio-producto{
+  display: block;
+  margin-left: 12%;
+  height: 40px;
+  width: 40%;
+  padding-left: 10px;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+}
+
+.telefono-producto{
+  display: block;
+  margin-left: 12%;
+  height: 40px;
+  width: 40%;
+  padding-left: 10px;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+}
+.dolar{
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.telefono{
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.descripcion-producto{
+  display: block;
+  margin: auto;
+  height: 200px;
+  width: 75%;
+  padding-left: 10px;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+  
+}
+
+.label{
+  margin-top: 20px;
+  margin-left: 12%;
+}
+
+
+
+/*Diseño de las letras que indican el tipo de dato que debe ingresar en los campos*/
+::placeholder {
+  font-size: 1rem;
+  color: rgba(29, 33, 75, .5);
+}
+.seleccionar{
+  font-size: 1rem;
+  color: rgba(29, 33, 75, .5);
+}
+
+/*Cambio de color cuando el cursor este sobre el campo a rellenar*/
+.formulario input:hover {
+  transition: .05s;
+  border: 1px solid #1d214b;
+  color: #1d214b;
+}
+
+/*botones de inicio de sesion y de registrarse*/
+.formulario .boton {
+  padding-top: 2px;
+  letter-spacing: 3px;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 30px;
+  height: 40px;
+  width: 50%;
+  background-color: #e7da4a;
+  color: #1d214b;
+  border-radius: 10px;
+  outline: none;
+  transition:all .5s ease;
+  border: solid  #575b83 ;
+  text-decoration: none;
+}
+
+/*cambia de color cuando el cursor pasa sobre el boton*/
+.formulario .boton:hover {
+  color: #1d214b;
+  border: 2px solid #eef6ff;
+}
+
+/*Estilo del titulo de registrate*/
+.title-registro {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+
+/*Estilos del boton de subir archivos en el registro*/
+
+.boton-subida1 {
+  display: inline-flex;
+  margin: auto;
+  height: 40px;
+  width: 33%;
+  margin-left: 17%;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  align-items:center;
+  justify-content: center;
+  max-width: 100%;
+  text-align: center;
+
+}
+.boton-subida2 {
+  display: inline-flex;
+  margin: auto;
+  height: 40px;
+  width: 33%;
+  margin-left: 2%;
+  color:  #1d214b;
+  border: 2px solid #eef6ff;
+  border-radius: 2px;
+  background-color: transparent;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  justify-content: center;
+  max-width: 100%;
+  text-align: center;
+}
+input[type="file"] {
+  height: 100%;
+  left: 0;
+  position: relative;
+  top: 0;
+  width: 100%;
+  opacity: 0;
+}
+.btn-archivo {
+  position: absolute;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+  letter-spacing: 2px;
+
+  
+}
+
+/*subir imagenes*/
+.imagenes-texto{
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
+}
+
+
+
+
+
+
+/*Estilos el pie de pagina*/
+.footer{
+  position: relative;
+  bottom: 0;
+  padding-bottom: 1px;
+  width: 100%;
+  height: 80px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Imágenes */
+
+.images-cards figure {
+  position: relative;
+}
+
+.images-cards img {
+  height: 240px;
+}
+
+.images-cards figure figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  font-size: 44px;
+  cursor: pointer;
+  opacity: 0;
+  transition: 0.3s all ease;
+  -webkit-transition: 0.3s all ease;
+  -moz-transition: 0.3s all ease;
+  -ms-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+}
+
+.images-cards figure figcaption:hover {
+  opacity: 1;
+}
+
+
+/* Selector de imágenes */
+
+#images .add-new-photo {
+  display: flex;
+  border: 4px dashed #fff;
+  height: 100%;
+  min-height: 240px;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s all ease;
+  -webkit-transition: 0.3s all ease;
+  -moz-transition: 0.3s all ease;
+  -ms-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+}
+
+#images .add-new-photo.first:hover {
+  background: rgba(255, 255, 255, 0.17);
+}
+
+#add-photo-container input {
+  display: none;
+}
+
+
+  /*Estilos el pie de pagina*/
+  .footer{
+    position: relative;
+    bottom: 0;
+    padding-bottom: 1px;
+    width: 100%;
+    height: 80px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
